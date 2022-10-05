@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-
+git clone https://github.com/demchenkodenis/reqres.git
 npm install
 ```
 
