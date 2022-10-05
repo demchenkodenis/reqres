@@ -3,11 +3,6 @@
 ## Project setup
 ```
 
-### Copy project on local computer
-
-git clone https://github.com/demchenkodenis/reqres.git
-```
-
 npm install
 ```
 
