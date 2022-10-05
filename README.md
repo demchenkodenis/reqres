@@ -6,7 +6,7 @@ git clone https://github.com/demchenkodenis/reqres.git
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Start, compiles and hot-reloads for development
 ```
 npm run serve
 ```
